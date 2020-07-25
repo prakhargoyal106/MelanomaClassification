@@ -6,6 +6,11 @@ This project is build for binary classification of Melanoma (Skin Cancer) in ima
 
 * Pytorch
 
+## Dataset Used
+
+The ISIC 2020 Challenge Dataset https://doi.org/10.34970/2020-ds01 (c) by ISDIS, 2020. Images were then resized to 256X256 size to ease/speed processing. 
+
+
 
 ## Data Augmentation Technique
 
