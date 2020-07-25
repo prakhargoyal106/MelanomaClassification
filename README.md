@@ -22,6 +22,13 @@ The ISIC 2020 Challenge Dataset https://doi.org/10.34970/2020-ds01 (c) by ISDIS,
 
 ![alt text](https://github.com/prakhargoyal106/MelanomaClassification/blob/master/Images/Microscope.png)
 
+
+## Model
+
+Model used in the  classification was inspired from https://arxiv.org/pdf/1905.11946.pdf. In this paper author systematically study model scaling and identify  that carefully balancing network depth, width, and resolution can lead to better performance. Based on this observation, we propose a new scaling method that uniformly scales all dimensions of
+depth/width/resolution using a simple yet highly effective compound coefficient
+
+
 ## Future Work
 
 * Introduce new machine learning optimization techniques to improve model accuracy
